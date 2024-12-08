@@ -1,1 +1,1 @@
-C:\Users\djvan\OneDrive\Documenten\GitHub\Advent-of-Code\adventofcode\target\debug\day1.exe: C:\Users\djvan\OneDrive\Documenten\GitHub\Advent-of-Code\adventofcode\src\main.rs
+C:\Users\djvan\OneDrive\Documenten\GitHub\Advent-of-Code\2024\day\ 1\target\debug\day1.exe: C:\Users\djvan\OneDrive\Documenten\GitHub\Advent-of-Code\2024\day\ 1\data\day1.txt C:\Users\djvan\OneDrive\Documenten\GitHub\Advent-of-Code\2024\day\ 1\src\main.rs

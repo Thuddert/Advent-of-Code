@@ -40,9 +40,9 @@ fn main() {
     const DATA: &str = include_str!("../data/day1.txt");
     let (left_list, right_list) = convert(DATA);
     let distance = total_distance(&left_list, &right_list);
-    println!("{}", distance);
     let similarity = similarity_score(&left_list, &right_list);
-    println!("{}", similarity);
+    println!("The total distance is:    {}", distance);
+    println!("The similarity score is:  {}", similarity);
 }
 
 #[cfg(test)]
